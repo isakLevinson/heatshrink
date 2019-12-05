@@ -18,7 +18,7 @@
 #endif
 
 /* Turn on logging for debugging. */
-#define HEATSHRINK_DEBUGGING_LOGS 0
+#define HEATSHRINK_DEBUGGING_LOGS 1
 
 /* Use indexing for faster compression. (This requires additional space.) */
 #define HEATSHRINK_USE_INDEX 1
